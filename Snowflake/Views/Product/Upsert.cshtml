@@ -46,6 +46,17 @@
 
 				<div class="form-group row" style="margin-top: 10px;">
 					<div class="col-4">
+						<label asp-for="Product.ShortDescription"></label>
+					</div>
+					<div class="col-8">
+						<input asp-for="Product.ShortDescription" class="form-control" />
+						<span asp-validation-for="Product.ShortDescription" class="text-danger"></span>
+					</div>
+
+				</div>
+
+				<div class="form-group row" style="margin-top: 10px;">
+					<div class="col-4">
 						<label asp-for="Product.Description"></label>
 					</div>
 					<div class="col-8">
@@ -79,6 +90,19 @@
 				</div>
 
 				<div class="form-group row" style="margin-top: 10px;">
+					<div class="col-4">
+						<label asp-for="Product.ProductTypeId"></label>
+					</div>
+					<div class="col-8">
+						<select asp-for="Product.ProductTypeId" asp-items="@Model.ProductTypeSelectList" class="form-control">
+							<option disabled selected>Select Product Type</option>
+						</select>
+						<span asp-validation-for="Product.ProductTypeId" class="text-danger"></span>
+					</div>
+
+				</div>
+
+				<div class="form-group row" style="margin-top: 10px;">
 					<div class="col-8 offset-4 row">
 						<div class="col">
 							@if(Model.Product.Id != 0)
@@ -100,7 +124,10 @@
 			</div>
 
 			<div class = "col-4">
-				<img src="@WC.ImagePath@Model.Product.Image" width="100%" style="border-radius:5px; border:1px solid #bbb"/>
+				@if (Model.Product.Id != 0)
+				{
+					<img src="@WC.ImagePath@Model.Product.Image" width="100%" style="border-radius:5px; border:1px solid #bbb"/>
+				}
 			</div>
 
 		</div>

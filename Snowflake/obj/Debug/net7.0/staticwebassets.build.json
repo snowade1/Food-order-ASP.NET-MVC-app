@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0pNKdywiToPbaTx4TrNFERBZYoqQ5znMq52C5h9Y118=",
+  "Hash": "nU90kQEsX61yJky9PRYwP31zrqQ6p2tdsOC726EkfyU=",
   "Source": "Snowflake",
   "BasePath": "_content/Snowflake",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\86a002bf-da18-4fda-8d1e-851cfc36be07.jpg",
+      "Identity": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\39c70024-6cc2-4141-be83-7b67dd9dc659.jpg",
       "SourceId": "Snowflake",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\",
       "BasePath": "_content/Snowflake",
-      "RelativePath": "images/product/86a002bf-da18-4fda-8d1e-851cfc36be07.jpg",
+      "RelativePath": "images/product/39c70024-6cc2-4141-be83-7b67dd9dc659.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,24 +99,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\86a002bf-da18-4fda-8d1e-851cfc36be07.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\fafea69f-501e-4985-acf0-e2c44b869f37.png",
-      "SourceId": "Snowflake",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\",
-      "BasePath": "_content/Snowflake",
-      "RelativePath": "images/product/fafea69f-501e-4985-acf0-e2c44b869f37.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\fafea69f-501e-4985-acf0-e2c44b869f37.png"
+      "OriginalItemSpec": "wwwroot\\images\\product\\39c70024-6cc2-4141-be83-7b67dd9dc659.jpg"
     },
     {
       "Identity": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\js\\site.js",

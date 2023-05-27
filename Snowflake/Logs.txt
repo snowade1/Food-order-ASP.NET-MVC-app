@@ -1,0 +1,43 @@
+Created a new category: Sushi
+Created a new category: Sushi123
+Deleted category: Sushi
+Edited category: Sushi15555
+Created/edited product: Test123
+Created/edited product: Test12390000
+Created/edited product: Test123
+Created/edited product: dsadsddsa
+Created a new product type: Снежинка
+Edited product type: Снежинка123
+Deleted product type: Снежинка123
+Created/edited product: Пицца Мазератти123
+Created/edited product: Пицца Мазератти123
+Created/edited product: Matrix
+Created/edited product: Matrix123
+Created/edited product: Matrix123
+Created/edited product: Matrix123
+Deleted category: Sushi15555
+Deleted category: Pizza
+Created/edited product: 123
+Deleted product: 123
+Deleted product: dsadsddsa
+Deleted product: Test123
+Deleted product: Пицца Мазератти123
+Deleted product: dsada
+Created/edited product: testProduct
+Created/edited product: testProduct123
+Deleted product: testProduct123
+Created a new product type: Pizza
+Created a new product type: Sushi
+Created a new product type: Dessert
+Created a new category: Pizza
+Edited product type: PizzaHut
+Edited product type: JapaneSushi
+Edited product type: Radius
+Created a new category: Sushi
+Created a new category: Dessert
+Created/edited product: 4Cheese
+Created/edited product: 4Cheese
+Created/edited product: 4Cheese
+Created/edited product: 4Cheese
+Created/edited product: 4Cheese
+Created/edited product: 4Cheese

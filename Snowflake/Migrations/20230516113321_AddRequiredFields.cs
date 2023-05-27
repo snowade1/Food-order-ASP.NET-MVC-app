@@ -19,7 +19,16 @@ namespace Snowflake.Migrations
                 oldType: "nvarchar(max)",
                 oldNullable: true);
 
-        }
+			migrationBuilder.AlterColumn<string>(
+				name: "Name",
+				table: "ProductType",
+				type: "nvarchar(max)",
+				nullable: false,
+				oldClrType: typeof(string),
+				oldType: "nvarchar(max)",
+				oldNullable: true);
+
+		}
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
