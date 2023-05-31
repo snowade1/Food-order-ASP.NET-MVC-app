@@ -105,7 +105,7 @@ namespace Snowflake.Controllers
 			return RedirectToAction("Index");
 		}
 
-		private void LogAction(string action)
+		public void LogAction(string action)
 		{
 			string filePath = "Logs.txt";
 			using (StreamWriter writer = new StreamWriter(filePath, true))

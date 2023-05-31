@@ -52,3 +52,5 @@ Edited category: test2
 Created/edited product: 4Cheese
 Created/edited product: 4Cheese
 Created a new category: dsadsadsa
+Edited category: Pizza
+Created a new category: Pizza

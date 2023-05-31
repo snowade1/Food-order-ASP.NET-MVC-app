@@ -14,6 +14,7 @@ namespace Snowflake.Data
         {
 
         }
+        public ApplicationDbContext() { }
 
         public DbSet<Category> Category { get; set; }
 
