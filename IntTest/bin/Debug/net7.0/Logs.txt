@@ -1,0 +1,39 @@
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product
+Created a new product type: Test Product
+Created a new product type: Test Product
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product
+Created a new category: Test Category
+Edited category: Test Category
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product
+Deleted category: Test Category
+Created a new category: Test Category
+Edited category: Test Category
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product
+Deleted category: Test Category
+Deleted category: Test Category
+Created a new category: Test Category
+Edited category: Test Category
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product
+Created a new category: Test Category
+Created a new category: Test Category
+Deleted category: Test Category
+Edited category: Test Category
+Created a new product type: Test Product
+Deleted product type: Test Product
+Edited product type: Test Product

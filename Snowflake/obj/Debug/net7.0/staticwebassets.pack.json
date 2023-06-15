@@ -1,267 +1,279 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Snowflake.bundle.scp.css",
+      "Id": "D:\\IPZ\\Snowflake\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Snowflake.bundle.scp.css",
       "PackagePath": "staticwebassets\\Snowflake.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\css\\site.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\favicon.ico",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg",
       "PackagePath": "staticwebassets\\images\\product\\1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\38dda629-60af-4578-8e16-d19c0a13ab29.jpg",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\38dda629-60af-4578-8e16-d19c0a13ab29.jpg",
       "PackagePath": "staticwebassets\\images\\product\\38dda629-60af-4578-8e16-d19c0a13ab29.jpg"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\49f6c7f4-4bce-418f-a373-a39628516350.jpg",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\39c70024-6cc2-4141-be83-7b67dd9dc659.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\39c70024-6cc2-4141-be83-7b67dd9dc659.jpg"
+    },
+    {
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\3a3914c8-a01c-48ba-98ab-766fcb3ccbde.exe",
+      "PackagePath": "staticwebassets\\images\\product\\3a3914c8-a01c-48ba-98ab-766fcb3ccbde.exe"
+    },
+    {
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\49f6c7f4-4bce-418f-a373-a39628516350.jpg",
       "PackagePath": "staticwebassets\\images\\product\\49f6c7f4-4bce-418f-a373-a39628516350.jpg"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\696fae9f-d5b1-4016-9dfb-1cc93bce7fe7.jpg",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\696fae9f-d5b1-4016-9dfb-1cc93bce7fe7.jpg",
       "PackagePath": "staticwebassets\\images\\product\\696fae9f-d5b1-4016-9dfb-1cc93bce7fe7.jpg"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\f476cde6-9f73-473e-ab2d-ccf2259a75c5.jpg",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\cce866b1-5845-4d4d-864e-e8a5a07bec0c.png",
+      "PackagePath": "staticwebassets\\images\\product\\cce866b1-5845-4d4d-864e-e8a5a07bec0c.png"
+    },
+    {
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\images\\product\\f476cde6-9f73-473e-ab2d-ccf2259a75c5.jpg",
       "PackagePath": "staticwebassets\\images\\product\\f476cde6-9f73-473e-ab2d-ccf2259a75c5.jpg"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\js\\site.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\IPZ\\Snowflake\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -11748,24 +11748,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dimon\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Maksym\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\Snowflake.csproj",
+      "projectUniqueName": "D:\\IPZ\\Snowflake\\Snowflake.csproj",
       "projectName": "Snowflake",
-      "projectPath": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\Snowflake.csproj",
-      "packagesPath": "C:\\Users\\dimon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\obj\\",
+      "projectPath": "D:\\IPZ\\Snowflake\\Snowflake.csproj",
+      "packagesPath": "C:\\Users\\Maksym\\.nuget\\packages\\",
+      "outputPath": "D:\\IPZ\\Snowflake\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dimon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Maksym\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11843,7 +11838,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
