@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\38dda629-60af-4578-8e16-d19c0a13ab29.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\38dda629-60af-4578-8e16-d19c0a13ab29.jpg"
+    },
+    {
       "Id": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\49f6c7f4-4bce-418f-a373-a39628516350.jpg",
       "PackagePath": "staticwebassets\\images\\product\\49f6c7f4-4bce-418f-a373-a39628516350.jpg"
     },

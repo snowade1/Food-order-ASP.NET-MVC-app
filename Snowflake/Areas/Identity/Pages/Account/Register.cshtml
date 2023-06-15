@@ -1,7 +1,10 @@
 ﻿@page
 @model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
 
-@if(User.IsInRole(Snowflake.WC.AdminRole))
+@if (User.IsInRole(Snowflake.WC.AdminRole))
 {
     <h1>Register an Admin Account</h1>
 }

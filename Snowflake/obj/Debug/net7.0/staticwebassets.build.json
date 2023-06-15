@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OeM3qmYT8DnrnIuKzbOhQfs3T8iEME8cRrXTEAIj3GA=",
+  "Hash": "bAzJcPaLKTmrRpKTuLnenAswsvtMuEZXd1ZoeTDRu2w=",
   "Source": "Snowflake",
   "BasePath": "_content/Snowflake",
   "Mode": "Default",
@@ -1103,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg",
+      "SourceId": "Snowflake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\",
+      "BasePath": "_content/Snowflake",
+      "RelativePath": "images/product/1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\1588a519-1dc7-4b08-aac3-03bf81dc77e0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\38dda629-60af-4578-8e16-d19c0a13ab29.jpg",
+      "SourceId": "Snowflake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\",
+      "BasePath": "_content/Snowflake",
+      "RelativePath": "images/product/38dda629-60af-4578-8e16-d19c0a13ab29.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\38dda629-60af-4578-8e16-d19c0a13ab29.jpg"
     },
     {
       "Identity": "C:\\Users\\dimon\\source\\repos\\Snowflake\\Snowflake\\wwwroot\\images\\product\\49f6c7f4-4bce-418f-a373-a39628516350.jpg",
